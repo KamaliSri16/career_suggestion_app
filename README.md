@@ -34,5 +34,28 @@ Click below to try it out on your Android device:
 
 ## 📸 Screenshots 
 
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](screenshots/home.jpg)
+
+### ✨ Splash Screen
+![Splash Screen](screenshots/splash.jpg)
+
+### 🎀 Input Page – Interests (Part 1)
+![Input Page 1](screenshots/input1.jpg)
+
+### 💬 Input Page – More Interests (Part 2)
+![Input Page 2](screenshots/input2.jpg)
+
+### 🎯 Suggested Careers – Results (Page 1)
+![Output 1](screenshots/output1.jpg)
+
+### 🎯 Suggested Careers – More Results (Page 2)
+![Output 2](screenshots/output2.jpg)
+
+
+
+
 
 
