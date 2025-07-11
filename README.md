@@ -32,7 +32,7 @@ Click below to try it out on your Android device:
 
 ---
 
-## 📸 Screenshots *(optional)*
+## 📸 Screenshots 
 
-*Upload screenshots to your repo and link them like this:*
+
 
