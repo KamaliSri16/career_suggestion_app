@@ -34,8 +34,6 @@ Click below to try it out on your Android device:
 
 ## 📸 Screenshots 
 
-## 📸 Screenshots
-
 ### 🏠 Home Screen
 ![Home Screen](screenshots/home.jpg)
 
